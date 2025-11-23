@@ -1,0 +1,18 @@
+{
+    "query": {
+        "$query": {
+            "$and": [
+                {
+                    "sourceGroupUri": "general/top100"
+                },
+                {
+                    "dateStart": "2025-01-01",
+                    "dateEnd": "2025-11-30"
+                }
+            ]
+        }
+    },
+    "resultType": "timeAggr",
+    "timeAggrSortBy": "date",
+    "apiKey": "MY_API_KEY"
+}

@@ -1,0 +1,402 @@
+[
+    {
+        "Counts frequency": "119850",
+        "Counts total": "2738112",
+        "ShortLabel": "",
+        "Source uri": "infobae.com",
+        "Source dataType": "news",
+        "Source title": "infobae"
+    },
+    {
+        "Counts frequency": "79162",
+        "Counts total": "5002151",
+        "ShortLabel": "",
+        "Source uri": "dailymail.co.uk",
+        "Source dataType": "news",
+        "Source title": "Mail Online"
+    },
+    {
+        "Counts frequency": "43873",
+        "Counts total": "1044774",
+        "ShortLabel": "",
+        "Source uri": "dw.com",
+        "Source dataType": "news",
+        "Source title": "Deutsche Welle"
+    },
+    {
+        "Counts frequency": "42204",
+        "Counts total": "1004943",
+        "ShortLabel": "",
+        "Source uri": "theguardian.com",
+        "Source dataType": "news",
+        "Source title": "The Guardian"
+    },
+    {
+        "Counts frequency": "35136",
+        "Counts total": "1410920",
+        "ShortLabel": "",
+        "Source uri": "reuters.com",
+        "Source dataType": "news",
+        "Source title": "Reuters"
+    },
+    {
+        "Counts frequency": "34205",
+        "Counts total": "1477003",
+        "ShortLabel": "",
+        "Source uri": "yahoo.com",
+        "Source dataType": "news",
+        "Source title": "Yahoo"
+    },
+    {
+        "Counts frequency": "28795",
+        "Counts total": "991034",
+        "ShortLabel": "",
+        "Source uri": "independent.co.uk",
+        "Source dataType": "news",
+        "Source title": "The Independent"
+    },
+    {
+        "Counts frequency": "27199",
+        "Counts total": "1701374",
+        "ShortLabel": "",
+        "Source uri": "ansa.it",
+        "Source dataType": "news",
+        "Source title": "ANSA.it"
+    },
+    {
+        "Counts frequency": "26196",
+        "Counts total": "679103",
+        "ShortLabel": "",
+        "Source uri": "france24.com",
+        "Source dataType": "news",
+        "Source title": "France 24"
+    },
+    {
+        "Counts frequency": "25313",
+        "Counts total": "724099",
+        "ShortLabel": "",
+        "Source uri": "nytimes.com",
+        "Source dataType": "news",
+        "Source title": "The New York Times"
+    },
+    {
+        "Counts frequency": "25064",
+        "Counts total": "462236",
+        "ShortLabel": "",
+        "Source uri": "elpais.com",
+        "Source dataType": "news",
+        "Source title": "EL PAÍS"
+    },
+    {
+        "Counts frequency": "24942",
+        "Counts total": "959554",
+        "ShortLabel": "",
+        "Source uri": "lavanguardia.com",
+        "Source dataType": "news",
+        "Source title": "LaVanguardia"
+    },
+    {
+        "Counts frequency": "23844",
+        "Counts total": "1534823",
+        "ShortLabel": "",
+        "Source uri": "bbc.com",
+        "Source dataType": "news",
+        "Source title": "BBC"
+    },
+    {
+        "Counts frequency": "21054",
+        "Counts total": "992788",
+        "ShortLabel": "",
+        "Source uri": "thestar.com.my",
+        "Source dataType": "news",
+        "Source title": "The Star "
+    },
+    {
+        "Counts frequency": "19659",
+        "Counts total": "812191",
+        "ShortLabel": "",
+        "Source uri": "cbc.ca",
+        "Source dataType": "news",
+        "Source title": "CBC News"
+    },
+    {
+        "Counts frequency": "19592",
+        "Counts total": "576386",
+        "ShortLabel": "",
+        "Source uri": "clarin.com",
+        "Source dataType": "news",
+        "Source title": "Clarin"
+    },
+    {
+        "Counts frequency": "19299",
+        "Counts total": "930287",
+        "ShortLabel": "",
+        "Source uri": "eluniversal.com.mx",
+        "Source dataType": "news",
+        "Source title": "El Universal Online"
+    },
+    {
+        "Counts frequency": "19043",
+        "Counts total": "1518741",
+        "ShortLabel": "",
+        "Source uri": "thehindu.com",
+        "Source dataType": "news",
+        "Source title": "The Hindu"
+    },
+    {
+        "Counts frequency": "18949",
+        "Counts total": "448765",
+        "ShortLabel": "",
+        "Source uri": "lemonde.fr",
+        "Source dataType": "news",
+        "Source title": "Le Monde.fr"
+    },
+    {
+        "Counts frequency": "18670",
+        "Counts total": "502443",
+        "ShortLabel": "",
+        "Source uri": "theglobeandmail.com",
+        "Source dataType": "news",
+        "Source title": "The Globe and Mail"
+    },
+    {
+        "Counts frequency": "18285",
+        "Counts total": "676197",
+        "ShortLabel": "",
+        "Source uri": "straitstimes.com",
+        "Source dataType": "news",
+        "Source title": "The Straits Times"
+    },
+    {
+        "Counts frequency": "17660",
+        "Counts total": "731845",
+        "ShortLabel": "",
+        "Source uri": "washingtonpost.com",
+        "Source dataType": "news",
+        "Source title": "Washington Post"
+    },
+    {
+        "Counts frequency": "16705",
+        "Counts total": "798091",
+        "ShortLabel": "",
+        "Source uri": "lefigaro.fr",
+        "Source dataType": "news",
+        "Source title": "Le Figaro.fr"
+    },
+    {
+        "Counts frequency": "15650",
+        "Counts total": "856865",
+        "ShortLabel": "",
+        "Source uri": "startribune.com",
+        "Source dataType": "news",
+        "Source title": "Star Tribune"
+    },
+    {
+        "Counts frequency": "14808",
+        "Counts total": "519153",
+        "ShortLabel": "",
+        "Source uri": "latimes.com",
+        "Source dataType": "news",
+        "Source title": "Los Angeles Times"
+    },
+    {
+        "Counts frequency": "14007",
+        "Counts total": "338706",
+        "ShortLabel": "",
+        "Source uri": "repubblica.it",
+        "Source dataType": "news",
+        "Source title": "La Repubblica.it"
+    },
+    {
+        "Counts frequency": "13741",
+        "Counts total": "697815",
+        "ShortLabel": "",
+        "Source uri": "abc.es",
+        "Source dataType": "news",
+        "Source title": "ABC ﻿TU DIARIO EN ESPAÑOL"
+    },
+    {
+        "Counts frequency": "13181",
+        "Counts total": "1247571",
+        "ShortLabel": "",
+        "Source uri": "hindustantimes.com",
+        "Source dataType": "news",
+        "Source title": "Hindustan Times"
+    },
+    {
+        "Counts frequency": "12554",
+        "Counts total": "1116887",
+        "ShortLabel": "",
+        "Source uri": "indianexpress.com",
+        "Source dataType": "news",
+        "Source title": "Indian Express"
+    },
+    {
+        "Counts frequency": "12521",
+        "Counts total": "653912",
+        "ShortLabel": "",
+        "Source uri": "apnews.com",
+        "Source dataType": "news",
+        "Source title": "AP NEWS"
+    },
+    {
+        "Counts frequency": "11162",
+        "Counts total": "619084",
+        "ShortLabel": "",
+        "Source uri": "channelnewsasia.com",
+        "Source dataType": "news",
+        "Source title": "Channel NewsAsia"
+    },
+    {
+        "Counts frequency": "10853",
+        "Counts total": "497912",
+        "ShortLabel": "",
+        "Source uri": "elmundo.es",
+        "Source dataType": "news",
+        "Source title": "EL MUNDO"
+    },
+    {
+        "Counts frequency": "10147",
+        "Counts total": "654943",
+        "ShortLabel": "",
+        "Source uri": "uol.com.br",
+        "Source dataType": "news",
+        "Source title": "uol.com.br"
+    },
+    {
+        "Counts frequency": "10051",
+        "Counts total": "481529",
+        "ShortLabel": "",
+        "Source uri": "telegraph.co.uk",
+        "Source dataType": "news",
+        "Source title": "The Telegraph"
+    },
+    {
+        "Counts frequency": "9666",
+        "Counts total": "292698",
+        "ShortLabel": "",
+        "Source uri": "chinadaily.com.cn",
+        "Source dataType": "news",
+        "Source title": "China Daily"
+    },
+    {
+        "Counts frequency": "9289",
+        "Counts total": "588499",
+        "ShortLabel": "",
+        "Source uri": "foxnews.com",
+        "Source dataType": "news",
+        "Source title": "Fox News"
+    },
+    {
+        "Counts frequency": "8933",
+        "Counts total": "316680",
+        "ShortLabel": "",
+        "Source uri": "bostonglobe.com",
+        "Source dataType": "news",
+        "Source title": "The Boston Globe"
+    },
+    {
+        "Counts frequency": "8715",
+        "Counts total": "200887",
+        "ShortLabel": "",
+        "Source uri": "estadao.com.br",
+        "Source dataType": "news",
+        "Source title": "Estadão"
+    },
+    {
+        "Counts frequency": "8663",
+        "Counts total": "284028",
+        "ShortLabel": "",
+        "Source uri": "ctvnews.ca",
+        "Source dataType": "news",
+        "Source title": "CTV News"
+    },
+    {
+        "Counts frequency": "8011",
+        "Counts total": "345330",
+        "ShortLabel": "",
+        "Source uri": "jornada.com.mx",
+        "Source dataType": "news",
+        "Source title": "La Jornada"
+    },
+    {
+        "Counts frequency": "7839",
+        "Counts total": "394847",
+        "ShortLabel": "",
+        "Source uri": "lrt.lt",
+        "Source dataType": "news",
+        "Source title": "Lietuvos Radijas ir Televizija"
+    },
+    {
+        "Counts frequency": "7829",
+        "Counts total": "148431",
+        "ShortLabel": "",
+        "Source uri": "liberation.fr",
+        "Source dataType": "news",
+        "Source title": "Libération"
+    },
+    {
+        "Counts frequency": "7776",
+        "Counts total": "129836",
+        "ShortLabel": "",
+        "Source uri": "euronews.com",
+        "Source dataType": "news",
+        "Source title": "Euronews English"
+    },
+    {
+        "Counts frequency": "7414",
+        "Counts total": "205308",
+        "ShortLabel": "",
+        "Source uri": "scmp.com",
+        "Source dataType": "news",
+        "Source title": "South China Morning Post"
+    },
+    {
+        "Counts frequency": "6735",
+        "Counts total": "538585",
+        "ShortLabel": "",
+        "Source uri": "cbsnews.com",
+        "Source dataType": "news",
+        "Source title": "CBS News"
+    },
+    {
+        "Counts frequency": "6190",
+        "Counts total": "275867",
+        "ShortLabel": "",
+        "Source uri": "standard.co.uk",
+        "Source dataType": "news",
+        "Source title": "Evening Standard"
+    },
+    {
+        "Counts frequency": "6156",
+        "Counts total": "269148",
+        "ShortLabel": "",
+        "Source uri": "thedailystar.net",
+        "Source dataType": "news",
+        "Source title": "The Daily Star"
+    },
+    {
+        "Counts frequency": "6135",
+        "Counts total": "176251",
+        "ShortLabel": "",
+        "Source uri": "arabnews.com",
+        "Source dataType": "news",
+        "Source title": "arab_news"
+    },
+    {
+        "Counts frequency": "5892",
+        "Counts total": "226860",
+        "ShortLabel": "",
+        "Source uri": "usnews.com",
+        "Source dataType": "news",
+        "Source title": "U.S. News and World Report"
+    },
+    {
+        "Counts frequency": "5831",
+        "Counts total": "360020",
+        "ShortLabel": "",
+        "Source uri": "nationalpost.com",
+        "Source dataType": "news",
+        "Source title": "National Post"
+    }
+]
